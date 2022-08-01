@@ -1,0 +1,8 @@
+.vscode
+.idea
+*.pyc
+.DS_Store
+NO-already
+Tools
+Config
+results.xlsx
