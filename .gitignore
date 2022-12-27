@@ -1,4 +1,14 @@
 .vscode
+**/.vscode
+
 .idea
-*.pyc
+**/.idea/
+
 .DS_Store
+**/.DS_Store
+
+*.pyc
+__pycache__
+
+build
+dist
